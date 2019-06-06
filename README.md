@@ -2,5 +2,5 @@
 ![1](https://raw.githubusercontent.com/julie2333/Application5/master/Pics/1.JPG)
 ![1](https://raw.githubusercontent.com/julie2333/Application5/master/Pics/2.JPG)
 ![1](https://raw.githubusercontent.com/julie2333/Application5/master/Pics/3.JPG)
-![1](https://raw.githubusercontent.com/julie2333/Application5/master/Pics/4.PNG)
-![1](https://raw.githubusercontent.com/julie2333/Application5/master/Pics/5.PNG)
+![1](https://raw.githubusercontent.com/julie2333/Application5/master/Pics/4.png)
+![1](https://raw.githubusercontent.com/julie2333/Application5/master/Pics/5.png)
